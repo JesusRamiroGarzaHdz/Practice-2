@@ -97,4 +97,4 @@ Screenshot the image of the complete schematic and upload it at the repository.
 
 ## Conclusion
 
-In this section, you should add the conclusions, suggestions, and/or problems of the laboratory activities. Each team member must add his/her own conclusion (5 lines as minimum for each member).
+In this second practice we learned how to develop a PCB (layer) for our proyect, this laboratory was by far the hardest one to complete because of the complexity of the software and our lack of experience in this topics. Personally, I had a problem with the libaries that we where asked to use por this practice, in 2 different points during the proccess, the program detected an error in my libraries and marked all my components as "unkonwn" erasing them form my schematic so I had to restart the practice. It was difficult and I had to ask for help to other classmates but at the end I managed to complete the practice and I think I solved it correctly. It was defenitely a bigger challenge than practice 1 but I consider that I have learned a lot about Kicad and how to use it to develop PCBs. 
